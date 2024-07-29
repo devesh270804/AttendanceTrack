@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="classTakenCheckBox" type="id"/>
+    <item name="attendedCheckBox" type="id"/>
+    <item type="id" name="attendancePercentageTextView"/>
+
+</resources>

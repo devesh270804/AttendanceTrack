@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846477063256",
+    "project_id": "clone-devesh",
+    "storage_bucket": "clone-devesh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846477063256:android:45af3b250699ad3c34862d",
+        "android_client_info": {
+          "package_name": "com.example.attendancetrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846477063256-2c4ghsnq4bqu7jgh50fqkf93hj151glc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgL93ez6bUud7up5MsVXf5-S_BOG4lWCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846477063256-2c4ghsnq4bqu7jgh50fqkf93hj151glc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

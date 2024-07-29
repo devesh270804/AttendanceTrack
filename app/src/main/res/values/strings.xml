@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">AttendanceTrack</string>
+
+
+    <string name="click_here">Click Here</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_passwords">Enter your password</string>
+    <string name="log_in">log in</string>
+    <string name="image_button">image button</string>
+    <string name="welcome_to_your_attendance_register">Welcome to your Attendance Register</string>
+    <string name="back">Back</string>
+    <string name="enter_your_name">Enter your Name</string>
+    <string name="hello_guys_n_we_are_glad_to_see_you_here_n_please_enter_your_details_to_login">Hello Guys! \n We are glad to see you here! \n Please enter your details to login.</string>
+    <string name="back_button">Back Button</string>
+    <string name="enter_name_of_subject1">Enter name of subject1</string>
+    <string name="enter_name_of_subject2">Enter name of subject2</string>
+    <string name="enter_name_of_subject3">Enter name of subject3</string>
+    <string name="enter_name_of_subject4">Enter name of subject4</string>
+    <string name="enter_name_of_subject5">Enter name of subject5</string>
+    <string name="submit">Submit</string>
+    <string name="date">Date</string>
+    <string name="subject_1">Subject 1</string>
+    <string name="subject_2">Subject 2</string>
+    <string name="subject_3">Subject 3</string>
+    <string name="subject_4">Subject 4</string>
+    <string name="subject_5">Subject 5</string>
+    <string name="button">Button</string>
+    <string name="register">register</string>
+    <string name="log_out">Log out</string>
+    <string name="attended">Attended</string>
+    <string name="class_taken">Class Taken</string>
+    <string name="add_subject">Add Subject</string>
+    <string name="enter_subject">Enter Subject</string>
+    <string name="submit2">Submit</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="submit_attendance">Submit Attendance</string>
+    <string name="class_taken2">Class Taken</string>
+    <string name="attended2">Attended</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="previous_activity">Previous Activity</string>
+    <string name="edit_subjects">Edit Subjects</string>
+    <string name="delete_selected_subject">Delete Selected Subject</string>
+    <string name="submit3">Submit</string>
+    <string name="add_subject2">Add Subject</string>
+    <string name="enter_subject2">Enter Subject</string>
+
+</resources>
